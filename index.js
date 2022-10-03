@@ -1,1 +1,1 @@
-console.log('Index JS Version 1');
+console.log('Index JS Version 2');
